@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro!
 
-- 🧙🏻‍♂️ I'm a Data Scientist and Data Engineer
+- 🧙🏻‍♂️ I'm a Data Scientist and Data Engineer. I also have 10+ years of experience as a Software Engineer (focusing on JS (React/React Native/Node/etc)).
 - ✍🏼 I [write about both](https://pedromadruga.com/blog)  👆🏻
 - 📨 Check my [newsletter](https://pedromadruga.com/newsletter)
 
