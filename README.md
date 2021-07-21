@@ -1,8 +1,8 @@
 ### Hi, I'm Pedro!
 
-🧙🏻‍♂️ I'm a Data Scientist and Data Engineer
-✍🏼 I [write about both](https://pedromadruga.com/blog)  👆🏻
-📨 Check my [newsletter](https://pedromadruga.com/newsletter)
+- I'm a Data Scientist and Data Engineer
+- I [write about both](https://pedromadruga.com/blog)  👆🏻
+- Check my [newsletter](https://pedromadruga.com/newsletter)
 
 
 
