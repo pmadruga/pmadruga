@@ -2,9 +2,6 @@
 
 # Hi, I'm Pedro! 👋
 
-
-# About me
-
 - Data Scientist and Data Engineer 🧙🏻‍♂️.
 - Available for hire 🙋🏻‍♂️.
 - MSc in Engineering 👨🏻‍🎓.
