@@ -1,4 +1,4 @@
-![A relaxing mathematician!](https://media-exp1.licdn.com/dms/image/C4E16AQGAOoDbXWJFHA/profile-displaybackgroundimage-shrink_350_1400/0/1626358925112?e=1632355200&v=beta&t=FNZzltQ05r08zbNjKAgX9jKiHsGgcBpp-vqGcoAgI-Q)
+![cover](https://media-exp1.licdn.com/dms/image/C4E16AQGYvQmaemm62Q/profile-displaybackgroundimage-shrink_200_800/0/1638991188827?e=1647475200&v=beta&t=1mKM2E0wuIo5jnhueCv9HN8C-SSTnZO5QJXwn3aYAww)
 
 # Hi, I'm Pedro! 👋
 
