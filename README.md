@@ -2,7 +2,7 @@
 
 # Hi, I'm Pedro! 👋
 
-- Data Scientist and Data Engineer 🧙🏻‍♂️.
+- Data Scientist 🧙🏻‍♂️.
 - M.Sc. in Engineering 👨🏻‍🎓.
 - Based in Europe 🇪🇺.
 
