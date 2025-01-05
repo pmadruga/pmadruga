@@ -2,14 +2,7 @@
 
 # Hi, I'm Pedro! 👋
 
-- Data Scientist & Machine Learning Engineer 🧙🏻‍♂️.
+- AI Scientist & Machine Learning Engineer 🧙🏻‍♂️.
 - M.Sc. in Engineering 👨🏻‍🎓.
-- Based in Europe 🇪🇺.
+- Based in Copenhagen, Denmark.
 
-# Contact
-
-- [twitter](https://twitter.com/pmadruga_ "Twitter")
-- [medium](https://medium.com/@pmadruga "Medium")
-- [github](https://github.com/pmadruga "Github")
-- [stackoverflow](https://stackoverflow.com/users/12418383 "Stackoverflow")
-- [linkedin](https://www.linkedin.com/in/pedromadruga "Linkedin")
